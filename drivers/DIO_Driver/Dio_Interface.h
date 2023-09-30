@@ -31,6 +31,7 @@
 #define DIO_HIGH  1
 #define DIO_LOW   0
 
+#define NULL '\0'
 
 /* For pins */
 void Dio_voidSetPinDirection (u8 Cpy_u8Port , u8 Cpy_u8Pin , u8 Cpy_u8Dirc);
