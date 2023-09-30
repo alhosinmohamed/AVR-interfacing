@@ -20,6 +20,7 @@
 #define INT0 1
 #define INT1 2
 #define INT2 3
+#define NULL '\0'
 typedef struct {
 	u8 intID ;
 	u8 trigger ;
